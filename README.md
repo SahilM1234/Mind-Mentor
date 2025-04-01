@@ -31,7 +31,7 @@ Mind Mentor is an AI-powered chatbot designed to analyze user statements, assess
 
 ### 1. Clone the Repository  
 ```bash
-git clone https://github.com/SahilM1234/mind-mentor.git
+git clone https://github.com/sahilmundada/mind-mentor.git
 cd mind-mentor
 ```  
 
